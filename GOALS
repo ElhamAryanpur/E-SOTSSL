@@ -1,0 +1,5 @@
+1. make server with only POST request and read the json data from client that contains: username, password, current seed, new seed, file, filename
+
+2. update the data and replace current seed with new seed
+
+3. save the file with filename!
